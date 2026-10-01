@@ -55,9 +55,10 @@ To publish a new APK, create a GitHub release and attach the APK as a release as
 
 ## 🔗 Links
 
-- [Anilove website](https://anilove.bond/)
-- [Privacy policy](https://anilove.bond/privacy-policy)
-- [Terms of use](https://anilove.bond/terms)
+- [Anilove website](https://www.anilove.bond)
+- [Privacy policy](https://www.anilove.bond/privacy-policy)
+- [Terms of use](https://www.anilove.bond/terms)
+- [Legal](https://www.anilove.bond/legal)
 - [Contact support](mailto:supportaniloveapp@gmail.com)
 
 ---
