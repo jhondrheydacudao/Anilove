@@ -51,6 +51,13 @@ The **[Download latest APK](https://updater-servers-production.up.railway.app/ap
 
 Android only installs an update over an existing app when the package name and signing certificate match. If Android reports a signature conflict, don't uninstall first if you need to preserve local app data; contact support for help.
 
+
+### VirusTotal scan
+
+Release APKs are submitted to VirusTotal for independent antivirus analysis. VirusTotal results can change as antivirus engines update their signatures. The linked report is the source of truth for the scan associated with that release.
+
+[View VirusTotal scan →](https://www.virustotal.com/gui/file/3fd7a4b5799fda111291faec207db2c610c7eb6317934a9da0d1c316846ff9e0)
+
 ## Releases and source code
 
 This repository contains the Anilove app page and documentation, not the Android app source or APK binaries. APK downloads are served by the Railway update API. Keep app source code and APK files out of this repository.
