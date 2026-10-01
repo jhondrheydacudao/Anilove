@@ -12,48 +12,50 @@ An anime companion for Android.
 
 <br/>
 
-<a href="https://github.com/jhondrheydacudao/Anilove/releases/latest"><img src="https://img.shields.io/github/v/release/jhondrheydacudao/Anilove?display_name=tag&style=for-the-badge&label=LATEST&color=F3E6C8&labelColor=171522" alt="Latest release"/></a>
-<img src="https://img.shields.io/github/downloads/jhondrheydacudao/Anilove/total?style=for-the-badge&label=DOWNLOADS&color=F3E6C8&labelColor=171522" alt="Downloads"/>
 <img src="https://img.shields.io/github/stars/jhondrheydacudao/Anilove?style=for-the-badge&label=STARS&color=F3E6C8&labelColor=171522" alt="Stars"/>
 <img src="https://img.shields.io/github/issues/jhondrheydacudao/Anilove?style=for-the-badge&label=ISSUES&color=F3E6C8&labelColor=171522" alt="Issues"/>
 
 <br/><br/>
 
-<a href="https://updater-servers-production.up.railway.app/api/app-update/download">Download APK</a>
+<a href="https://updater-servers-production.up.railway.app/api/app-update/download"><strong>Download latest APK</strong></a>
 &nbsp; · &nbsp;
 <a href="CHANGELOG.md">Changelog</a>
 &nbsp; · &nbsp;
-<a href="https://anilove.bond/">Website</a>
+<a href="https://www.anilove.bond">Website</a>
 &nbsp; · &nbsp;
-<a href="https://anilove.bond/privacy-policy">Privacy</a>
+<a href="https://www.anilove.bond/privacy-policy">Privacy</a>
 
 </div>
 
 ---
 
-## ✦ The Anilove experience
+## The Anilove experience
 
 Anilove helps you discover anime, save shows to your watchlist, and keep track of episodes in one Android app.
 
-| 🔎 Discover | ♡ Watchlist | ▶ Progress |
+| Discover | Watchlist | Progress |
 |:---:|:---:|:---:|
 | Browse anime titles and details | Save shows to revisit | Keep track of watched episodes |
 
-## ✨ Features
+## Features
 
 - Browse anime titles and show details
 - Save shows to your watchlist
 - Keep track of watch history and episode progress
 - Adjust playback and subtitle preferences
-- For Android 9 and newer
+- Android 9 and newer
 
-## 📥 Download
+## Download and install
 
-Download **Anilove v6.1.21** using the [direct APK download](https://updater-servers-production.up.railway.app/api/app-update/download). Open the downloaded APK and follow Android's installation prompt; if asked, allow your browser or file manager to install unknown apps.
+The **[Download latest APK](https://updater-servers-production.up.railway.app/api/app-update/download)** button downloads the current Android installer from the Anilove update service. On Android, open the downloaded APK and follow the installation prompt. If prompted, allow your browser or file manager to install unknown apps.
 
-To publish a new APK, create a GitHub release and attach the APK as a release asset. **Keep APKs in Releases rather than committing them here.** This repository is intended for the app page and release downloads; it does not need app source code.
+Android only installs an update over an existing app when the package name and signing certificate match. If Android reports a signature conflict, don't uninstall first if you need to preserve local app data; contact support for help.
 
-## 🔗 Links
+## Releases and source code
+
+This repository contains the Anilove app page and documentation, not the Android app source or APK binaries. APK downloads are served by the Railway update API. Keep app source code and APK files out of this repository.
+
+## Links
 
 - [Anilove website](https://www.anilove.bond)
 - [Privacy policy](https://www.anilove.bond/privacy-policy)
