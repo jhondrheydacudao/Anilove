@@ -33,9 +33,30 @@ An anime companion for Android.
 
 Anilove helps you discover anime, save shows to your watchlist, and keep track of episodes in one Android app.
 
-| Discover | Watchlist | Progress |
-|:---:|:---:|:---:|
-| Browse anime titles and details | Save shows to revisit | Keep track of watched episodes |
+## Screenshots
+
+<table>
+  <tr>
+    <td align="center"><img src="assets/screenshots/home.png" width="180" alt="Anilove home screen"/><br/><sub>Home</sub></td>
+    <td align="center"><img src="assets/screenshots/search.png" width="180" alt="Anime search screen"/><br/><sub>Search</sub></td>
+    <td align="center"><img src="assets/screenshots/details.png" width="180" alt="Anime details screen"/><br/><sub>Anime details</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/screenshots/popular-releases.png" width="180" alt="Popular anime releases"/><br/><sub>Discover</sub></td>
+    <td align="center"><img src="assets/screenshots/schedule.png" width="180" alt="Anime episode schedule"/><br/><sub>Schedule</sub></td>
+    <td align="center"><img src="assets/screenshots/browse-filters.png" width="180" alt="Anime browsing filters"/><br/><sub>Browse and filters</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/screenshots/watchlist-history.png" width="180" alt="Watch history screen"/><br/><sub>Watch history</sub></td>
+    <td align="center"><img src="assets/screenshots/watchlist-saved.png" width="180" alt="Saved anime list"/><br/><sub>Saved list</sub></td>
+    <td align="center"><img src="assets/screenshots/episode-list.png" width="180" alt="Anime episode list"/><br/><sub>Episodes</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/screenshots/episode-player.png" width="180" alt="Anime episode player"/><br/><sub>Episode player</sub></td>
+    <td align="center"><img src="assets/screenshots/announcements.png" width="180" alt="App announcements screen"/><br/><sub>Announcements</sub></td>
+    <td></td>
+  </tr>
+</table>
 
 ## Features
 
