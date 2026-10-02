@@ -42,14 +42,14 @@ Anilove helps you discover anime, save shows to your watchlist, and keep track o
     <td align="center"><img src="assets/screenshots/details.png" width="180" alt="Anime details screen"/><br/><sub>Browse and filters</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="assets/screenshots/popular-releases.png" width="180" alt="Popular anime releases"/><br/><sub>Discover</sub></td>
+    <td align="center"><img src="assets/screenshots/popular-releases.png" width="180" alt="Popular anime releases"/><br/><sub>Epidode list</sub></td>
     <td align="center"><img src="assets/screenshots/schedule.png" width="180" alt="Anime episode schedule"/><br/><sub>Search</sub></td>
     <td align="center"><img src="assets/screenshots/browse-filters.png" width="180" alt="Anime browsing filters"/><br/><sub>Saved list</sub></td>
   </tr>
   <tr>
     <td align="center"><img src="assets/screenshots/watchlist-history.png" width="180" alt="Watch history screen"/><br/><sub>Watch history</sub></td>
     <td align="center"><img src="assets/screenshots/watchlist-saved.png" width="180" alt="Saved anime list"/><br/><sub>Anime details</sub></td>
-    <td align="center"><img src="assets/screenshots/episode-list.png" width="180" alt="Anime episode list"/><br/><sub>Episodes</sub></td>
+    <td align="center"><img src="assets/screenshots/episode-list.png" width="180" alt="Anime episode list"/><br/><sub>Discover</sub></td>
   </tr>
   <tr>
     <td align="center"><img src="assets/screenshots/episode-player.png" width="180" alt="Anime episode player"/><br/><sub>profiles</sub></td>
