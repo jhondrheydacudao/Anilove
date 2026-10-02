@@ -39,12 +39,12 @@ Anilove helps you discover anime, save shows to your watchlist, and keep track o
   <tr>
     <td align="center"><img src="assets/screenshots/home.png" width="180" alt="Anilove home screen"/><br/><sub>Home</sub></td>
     <td align="center"><img src="assets/screenshots/search.png" width="180" alt="Anime search screen"/><br/><sub>Schedule</sub></td>
-    <td align="center"><img src="assets/screenshots/details.png" width="180" alt="Anime details screen"/><br/><sub>Anime details</sub></td>
+    <td align="center"><img src="assets/screenshots/details.png" width="180" alt="Anime details screen"/><br/><sub>Browse and filters</sub></td>
   </tr>
   <tr>
     <td align="center"><img src="assets/screenshots/popular-releases.png" width="180" alt="Popular anime releases"/><br/><sub>Discover</sub></td>
     <td align="center"><img src="assets/screenshots/schedule.png" width="180" alt="Anime episode schedule"/><br/><sub>Search</sub></td>
-    <td align="center"><img src="assets/screenshots/browse-filters.png" width="180" alt="Anime browsing filters"/><br/><sub>Browse and filters</sub></td>
+    <td align="center"><img src="assets/screenshots/browse-filters.png" width="180" alt="Anime browsing filters"/><br/><sub>Saved list</sub></td>
   </tr>
   <tr>
     <td align="center"><img src="assets/screenshots/watchlist-history.png" width="180" alt="Watch history screen"/><br/><sub>Watch history</sub></td>
