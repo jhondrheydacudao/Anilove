@@ -1,17 +1,18 @@
-# Changelog
+## Anilove 6.1.22
 
-## Anilove v6.1.21
+This release improves automatic intro and outro skipping by ensuring the app has the episode runtime before it requests skip markers.
 
-- Fixed watchlist and anime list issues.
-- Added anime list import and export for AniList and MyAnimeList.
-- Improved video playback and episode navigation.
-- Added smoother media-card animations and screen transitions.
-- Improved loading states and skeleton animations.
-- Enhanced the glassmorphic UI.
+### Improvements
 
-### Bug Fixes
+- **More reliable auto-skip data:** The app now waits for the video player to report the episode duration before querying AniSkip. AniSkip uses runtime when finding skip markers; requesting too early with a duration of `0` could return no results.
+- **Intro and outro skipping:** When skip markers are available and auto-skip is enabled, playback can skip the marked opening or ending segment.
+- **Provider skip markers:** Provider-supplied intro and outro markers continue to be supported alongside AniSkip data.
+- **Playback setting:** The existing **Auto-skip intro and outro** option remains available under **Settings → Playback**.
 
-- Fixed various video playback issues.
-- Fixed episodes occasionally getting stuck while loading.
-- Fixed blank content appearing in some sections.
-- Fixed navigation issues between media and episode pages.
+### Availability
+
+Auto-skip depends on skip data being available for the anime and episode. If neither AniSkip nor the provider supplies markers, there may be no segment to skip.
+
+### Backend note
+
+The proxy CDN allowlist fixed
