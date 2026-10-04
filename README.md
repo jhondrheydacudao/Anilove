@@ -75,9 +75,9 @@ Android only installs an update over an existing app when the package name and s
 
 ### VirusTotal scan
 
-The linked VirusTotal report is associated with the v6.1.21 APK (SHA-256: `ded4cee7a90e96c7d04f5b7e6ad5403b79f4deafa17c5e87f1149b2ab02b1811`). VirusTotal results can change as antivirus engines update their signatures. The linked report is the source of truth for the scan associated with that release.
+The linked VirusTotal report is associated with the v6.1.21 APK (SHA-256: `3b803d8f23157da730827c7823a17e88c6069304798e565dd888d4dd3ae223de`). VirusTotal results can change as antivirus engines update their signatures. The linked report is the source of truth for the scan associated with that release.
 
-[View VirusTotal scan →](https://www.virustotal.com/gui/file/ded4cee7a90e96c7d04f5b7e6ad5403b79f4deafa17c5e87f1149b2ab02b1811?nocache=1)
+[View VirusTotal scan →](https://www.virustotal.com/gui/file/3b803d8f23157da730827c7823a17e88c6069304798e565dd888d4dd3ae223de?nocache=1)
 
 ## Releases and source code
 
