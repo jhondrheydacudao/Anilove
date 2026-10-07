@@ -1,4 +1,4 @@
-## Anilove 6.1.22
+## Anilove 6.1.29
 
 This release improves automatic intro and outro skipping by ensuring the app has the episode runtime before it requests skip markers.
 
