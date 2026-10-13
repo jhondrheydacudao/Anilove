@@ -8,7 +8,7 @@
 
 An anime companion for Android.
 
-**Current version: v6.1.29**
+**Current version: v6.1.32**
 
 <br/>
 
